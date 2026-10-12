@@ -5,6 +5,7 @@ Prematüre bebek takip uygulamasının tanıtım sitesi. Yoğun bakım günlüğ
 - [Web sitesi](https://anlavc.github.io/minikadimlar/)
 - [Gizlilik politikası](https://anlavc.github.io/minikadimlar/gizlilik-politikasi/)
 - [Kullanım koşulları](https://anlavc.github.io/minikadimlar/kullanim-kosullari/)
+- [EULA](https://anlavc.github.io/minikadimlar/eula/)
 
 İletişim: anilavcidev@gmail.com
 
